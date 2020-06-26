@@ -49,6 +49,9 @@ body {
 .srch {
     padding-bottom:2%;
 }
+a{
+  color: inherit;
+}
 .searchbar{
     margin-bottom: auto;
     margin-top: auto;
