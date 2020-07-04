@@ -40,6 +40,9 @@ body {
 .clearfix {
     padding:1%;
 }
+.img {
+    padding-right: 5px;
+}
 .srch {
     padding-bottom:2%;
 }
